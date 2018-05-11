@@ -15,7 +15,7 @@ PropertyManager legge tutte le proprietà del file main\resources\META-INF\searc
  
 
 Nota:
-durante la fase di preparazione è emersa la possibilità di utilizzare il singleton: gestire soltanto un’unica istanza della classe stessa essere creata all’interno del programma. funzionalità scelta per ovviare a problematiche di login simultaneo che potrebbero mandare in errore l'esecuzione.
+durante la fase di preparazione è emersa la possibilità di utilizzare il singleton: gestire soltanto un’unica istanza della classe stessa  creata all’interno del programma. Funzionalità scelta per ovviare a problematiche di login simultaneo che potrebbero mandare in errore l'esecuzione.
 Per la richiesta compatibilità con versione 1.8 è stato utilzzato Maven https://maven.apache.org (presenza del file POM)
  comando: mvn clean install
 
