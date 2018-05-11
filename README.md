@@ -24,4 +24,4 @@ la richiesta prevede l'utilizzo di un file esterno
 main\resources\META-INF\searchUsers.properties
 in cui vanno inseriti i valori URL credenziali server LDAP
 per mancanza di tempo l'obiettivo di ottenere un file esterno non è stato ottenuto.
-La soluzione proposta sarebbe stata, conoscendo il sistema operativo destinatario usare uno script sh o un batch che esternamente effettuava la sincronizzazione dei dati.
+La soluzione proposta sarebbe stata, conoscendo il sistema operativo destinatario, uno script sh o un batch che esternamente effettuava la sincronizzazione dei dati.
